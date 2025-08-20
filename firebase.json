@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cargopro-task-69df5",
+          "appId": "1:924292811472:android:c8251e8ab1b7095a592cd5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cargopro-task-69df5",
+          "configurations": {
+            "android": "1:924292811472:android:c8251e8ab1b7095a592cd5",
+            "ios": "1:924292811472:ios:9c8450f3e5eef44d592cd5",
+            "web": "1:924292811472:web:18cccd20375c3c83592cd5"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

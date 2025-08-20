@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924292811472",
+    "project_id": "cargopro-task-69df5",
+    "storage_bucket": "cargopro-task-69df5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924292811472:android:c8251e8ab1b7095a592cd5",
+        "android_client_info": {
+          "package_name": "com.example.cargopro_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe__P3kAs7ef9MX4TPl9V6D_2pwQVJOZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
