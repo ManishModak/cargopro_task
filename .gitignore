@@ -43,4 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Environment files (contains sensitive Firebase keys)
+.env
+.env.local
+.env.production
+
+# Firebase sensitive files
+firebase_options.generated.dart
+
+# Task files
 Task.md
